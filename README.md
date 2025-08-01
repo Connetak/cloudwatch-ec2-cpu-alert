@@ -47,7 +47,7 @@ Monitor high CPU usage on an EC2 instance and get notified immediately to take a
 
 ## 🔗 Connect With Me
 
-🌐 GitHub: [github.com/Connetak](https://github.com/Connetak)
+🌐 GitHub: [https://github.com/connectak)
 
 
 
